@@ -1,0 +1,42 @@
+h1{
+	background-color: #690074;
+	padding: 15px;
+	font-family: "Century Gothic";
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	margin-bottom:23px;
+}
+
+#lista1{
+	overflow: hidden;
+	list-style-type: none; 
+	padding:0;
+}
+
+li a{
+	text-decoration: none; 
+	display: block;
+	background-color: #FA67AB;
+	font-family: "Century Gothic";
+	font-size: 35px;
+	color: white; 
+	text-align: center;
+	margin-bottom:20px ;
+	padding: 0px;
+}
+
+
+h2{
+	background-color: #C1C1C1;
+	padding: 10px;
+	font-family: "Calibri";
+	font-size: 30px;
+	color: #232931;
+	text-align: center;
+}
+
+article{
+	background-color: #BBDED6;
+	margin: 150px 180px 150px 180px; 
+}

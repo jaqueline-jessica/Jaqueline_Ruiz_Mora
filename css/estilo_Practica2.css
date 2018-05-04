@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color:#F9C7CF;
+	padding: 1px;
+	margin: 0;
+	text-align: center; 
+}
+
+h1{
+	font-family:"Comic Sans MS"; 
+	font-size: 45px;
+}
+h2{
+	font-size: "Verdana";
+	font-size: 25px;
+	color:#2980B9;
+}
+
+h3{
+	font-size: "Arial Rounded MT Bold";
+	font-size: 25px;
+	color: #F67280;
+}
+
+img{
+	float: left;
+}
+
+p{
+	font-size: "Aparajita";
+	font-size: 20px;
+	text-align: justify;
+	color: #2980B9;
+	padding: 10px;
+	padding-right: 20px;
+
+
+}
+
+footer{
+	background-image: url(../img/pastel.jpg);
+	padding: 30px;
+	text-align: left;
+	padding-top: 30px;
+}
+

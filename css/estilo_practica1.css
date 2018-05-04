@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+
+}
+
+header{
+	background-color: #33CCCC; 
+	padding: 1px;
+	margin: 0;
+}
+
+h1{
+	font-family: "Century Gothic";
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	padding-top: 
+}
+
+h2{
+	font-family: Arial;
+	font-size: 33px;
+	color: #2980B9;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+p{
+	font-family: "Century Gothic";
+	font-size: 25px;
+	color: black;
+	padding-left: 35px;
+	padding-right: 75px;
+	text-align: justify;
+}
+
+
+footer{
+	background-color: #33CCCC; 
+	padding: 20px;
+	margin: 0;
+	font-family: "Century Gothic";
+	font-size: 30px;
+	text-align: center;
+}
+
